@@ -40,7 +40,7 @@ ChatLogic::~ChatLogic()
     // {
     //     delete *it;
     // }
-        // [Task 3] smart unique pointers don't need to be deleted
+                                                                            // [Task 3] smart unique pointers don't need to be deleted
     // delete all edges
     // for (auto it = std::begin(_edges); it != std::end(_edges); ++it)
     // {
